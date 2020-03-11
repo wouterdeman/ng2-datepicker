@@ -1,5 +1,5 @@
 {
-  "name": "ng2-datepicker",
+  "name": "@wkb/ng2-datepicker",
   "version": "9.0.0",
   "main": "./dist/bundles/ng2-datepicker.umd.js",
   "module": "./dist/ng2-datepicker.es5.js",
@@ -67,7 +67,7 @@
   },
   "dependencies": {
     "date-fns": "^1.29.0",
-    "ngx-slimscroll": "file:ngx-slimscroll-local",
+    "@wkb/ngx-slimscroll": "^9.0.0",
     "tslib": "^1.10.0"
   }
 }
